@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/superhero-finder/static/css/main.dcee6ba6.chunk.css",
+    "main.js": "/superhero-finder/static/js/main.899b2491.chunk.js",
+    "main.js.map": "/superhero-finder/static/js/main.899b2491.chunk.js.map",
+    "runtime-main.js": "/superhero-finder/static/js/runtime-main.4eceb3bd.js",
+    "runtime-main.js.map": "/superhero-finder/static/js/runtime-main.4eceb3bd.js.map",
+    "static/css/2.f271c652.chunk.css": "/superhero-finder/static/css/2.f271c652.chunk.css",
+    "static/js/2.14a845ff.chunk.js": "/superhero-finder/static/js/2.14a845ff.chunk.js",
+    "static/js/2.14a845ff.chunk.js.map": "/superhero-finder/static/js/2.14a845ff.chunk.js.map",
+    "static/js/3.6eaaec8f.chunk.js": "/superhero-finder/static/js/3.6eaaec8f.chunk.js",
+    "static/js/3.6eaaec8f.chunk.js.map": "/superhero-finder/static/js/3.6eaaec8f.chunk.js.map",
+    "index.html": "/superhero-finder/index.html",
+    "static/css/2.f271c652.chunk.css.map": "/superhero-finder/static/css/2.f271c652.chunk.css.map",
+    "static/css/main.dcee6ba6.chunk.css.map": "/superhero-finder/static/css/main.dcee6ba6.chunk.css.map",
+    "static/js/2.14a845ff.chunk.js.LICENSE.txt": "/superhero-finder/static/js/2.14a845ff.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/superhero-finder/static/media/superheroBG3.1cc20e28.jpg",
+    "static/media/superheroBG5.06468b7d.png": "/superhero-finder/static/media/superheroBG5.06468b7d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eceb3bd.js",
+    "static/css/2.f271c652.chunk.css",
+    "static/js/2.14a845ff.chunk.js",
+    "static/css/main.dcee6ba6.chunk.css",
+    "static/js/main.899b2491.chunk.js"
+  ]
+}
